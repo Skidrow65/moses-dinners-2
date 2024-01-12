@@ -1,2 +1,2 @@
 # moses-dinners-2
-only for large screen devices for now
+its an only menu. only for large screen devices for now
